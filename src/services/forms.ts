@@ -1,0 +1,2 @@
+export type FormPayload=Record<string,string|boolean> & {type:string;source:string};
+export async function submitForm(payload:FormPayload){const endpoint=import.meta.env.VITE_ENQUIRY_ENDPOINT;if(!endpoint){await new Promise(r=>setTimeout(r,700));return {ok:true,simulated:true};}const response=await fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});if(!response.ok)throw new Error('We could not send your enquiry. Please call or WhatsApp us.');return {ok:true,simulated:false};}
