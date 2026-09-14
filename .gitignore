@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-node_modules/
-dist/
-*.tsbuildinfo
-=======
 # Dependencies
 node_modules/
 
@@ -34,4 +29,9 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
->>>>>>> 899d0b7 (commit after pulling from github)
+
+# TypeScript incremental build metadata
+*.tsbuildinfo
+
+# Wrangler local state
+.wrangler/
