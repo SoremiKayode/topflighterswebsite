@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-labelledby="title description">
+  <title id="title">Happy Topflighters Academy pupils</title>
+  <desc id="description">An illustrated girl and boy in navy school uniforms standing in front of their school, with an aeroplane flying overhead.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#dff2ff"/><stop offset="1" stop-color="#fff"/></linearGradient>
+    <linearGradient id="skin" x2=".6" y2="1"><stop stop-color="#8e4b28"/><stop offset="1" stop-color="#633018"/></linearGradient>
+    <linearGradient id="shirt" x2="0" y2="1"><stop stop-color="#0b315f"/><stop offset="1" stop-color="#061c3d"/></linearGradient>
+  </defs>
+  <rect width="900" height="720" rx="44" fill="url(#sky)"/>
+  <circle cx="112" cy="105" r="70" fill="#fff" opacity=".75"/><circle cx="190" cy="98" r="48" fill="#fff" opacity=".75"/>
+  <path d="M610 91l176-54-97 83-5 45-26-33-56 10 33-31z" fill="#fff" stroke="#0a2851" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M610 91l86-4M658 132l31-12" stroke="#f0c714" stroke-width="7"/>
+  <g opacity=".92">
+    <path d="M540 192h314v314H540z" fill="#f7f5e9"/><path d="M520 173h354v35H520z" fill="#0a2851"/>
+    <path d="M567 235h65v67h-65zm97 0h65v67h-65zm97 0h65v67h-65zm-194 96h65v67h-65zm97 0h65v67h-65zm97 0h65v67h-65z" fill="#9ed6ec" stroke="#fff" stroke-width="8"/>
+    <path d="M548 438h296v68H548z" fill="#14851c"/><path d="M671 422h53v84h-53z" fill="#0a2851"/>
+  </g>
+  <ellipse cx="466" cy="682" rx="360" ry="25" fill="#092650" opacity=".14"/>
+  <g transform="translate(70 62)">
+    <path d="M165 134c-34-67 8-112 72-106 57 5 80 60 52 114z" fill="#24160f"/><circle cx="164" cy="69" r="41" fill="#21140e"/><circle cx="284" cy="72" r="41" fill="#21140e"/>
+    <circle cx="229" cy="131" r="75" fill="url(#skin)"/><path d="M164 116c17-72 111-83 132-9-32-9-42-34-48-48-15 24-47 42-84 45z" fill="#21140e"/>
+    <ellipse cx="204" cy="131" rx="8" ry="11" fill="#16110e"/><ellipse cx="256" cy="131" rx="8" ry="11" fill="#16110e"/><path d="M201 167q29 28 59-2" fill="#fff" stroke="#3e1d12" stroke-width="7" stroke-linecap="round"/>
+    <path d="M143 254q20-64 86-64t91 64l30 258H111z" fill="url(#shirt)"/><path d="M199 199l30 42 31-42" fill="#fff"/><path d="M229 241v270" stroke="#f0c714" stroke-width="5"/><path d="M148 286h166" stroke="#158c22" stroke-width="7"/>
+    <circle cx="270" cy="293" r="24" fill="#fff" stroke="#f0c714" stroke-width="5"/><path d="M261 294l8 8 13-17" fill="none" stroke="#168620" stroke-width="5"/><path d="M132 267L83 501M322 266l53 233" stroke="url(#skin)" stroke-width="34" stroke-linecap="round"/>
+    <path d="M94 238L46 444" stroke="#ef426f" stroke-width="25"/><path d="M95 237l55 22M340 251l42 204" stroke="#ef426f" stroke-width="25"/>
+  </g>
+  <g transform="translate(416 46)">
+    <path d="M131 95q8-83 85-83t87 83z" fill="#19120e"/><circle cx="216" cy="120" r="78" fill="url(#skin)"/><path d="M140 95q8-74 77-74t79 72c-29-13-49-36-58-55-18 30-52 50-98 57z" fill="#1c130e"/>
+    <g fill="none" stroke="#071f4b" stroke-width="9"><rect x="144" y="99" width="58" height="42" rx="16"/><rect x="230" y="99" width="58" height="42" rx="16"/><path d="M202 116h28"/></g><ellipse cx="176" cy="119" rx="7" ry="9"/><ellipse cx="257" cy="119" rx="7" ry="9"/>
+    <path d="M183 157q34 28 68-1" fill="#fff" stroke="#3e1d12" stroke-width="7" stroke-linecap="round"/><path d="M117 251q24-65 99-65t101 65l35 276H80z" fill="url(#shirt)"/><path d="M187 195l29 43 31-43" fill="#fff"/>
+    <path d="M216 237v289" stroke="#f0c714" stroke-width="5"/><path d="M120 287h194" stroke="#158c22" stroke-width="7"/><circle cx="267" cy="292" r="25" fill="#fff" stroke="#f0c714" stroke-width="5"/><path d="M257 293l9 8 14-18" fill="none" stroke="#168620" stroke-width="5"/>
+    <path d="M106 270L60 508M326 268l56 238" stroke="url(#skin)" stroke-width="37" stroke-linecap="round"/><path d="M90 238L39 448" stroke="#ef426f" stroke-width="26"/><path d="M341 244l47 205" stroke="#ef426f" stroke-width="26"/>
+  </g>
+</svg>
